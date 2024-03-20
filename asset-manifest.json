@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aa3bd23.css",
+    "main.js": "/static/js/main.c1fc49ca.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.88c4d4ceb1c56c1c6ac9.jpg",
+    "static/media/chair.jpg": "/static/media/chair.ccb595804e793df47d24.jpg",
+    "static/media/booked.jpg": "/static/media/booked.2af0d046e644b0000a45.jpg",
+    "static/media/rooms.jpg": "/static/media/rooms.6c04d745d08c655821c2.jpg",
+    "static/media/5-30_3.jpg": "/static/media/5-30_3.adbbedf368b3123142bb.jpg",
+    "static/media/5-30_2.jpg": "/static/media/5-30_2.75f52d63ad9ce26b6d0f.jpg",
+    "static/media/5-30.jpg": "/static/media/5-30.05885adae1ca4d9970f1.jpg",
+    "static/media/magnifying-glass.png": "/static/media/magnifying-glass.ed3d01ab61bdce14c22a.png",
+    "static/media/magnifying-glass_1.png": "/static/media/magnifying-glass_1.f73642ee22aa8dade228.png",
+    "index.html": "/index.html",
+    "main.3aa3bd23.css.map": "/static/css/main.3aa3bd23.css.map",
+    "main.c1fc49ca.js.map": "/static/js/main.c1fc49ca.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa3bd23.css",
+    "static/js/main.c1fc49ca.js"
+  ]
+}
